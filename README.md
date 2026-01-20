@@ -1,121 +1,129 @@
-# Digital-payment_phonepay_dashboard
+# 💳 Digital Payment – PhonePe Analytics Dashboard
 
 ## 📌 Project Overview
 
-This project presents an **interactive Power BI dashboard** built to analyze **PhonePe transaction and user data across India**.
-The dashboard provides insights into **transaction performance, user growth, and regional trends**, designed in a **professional, portfolio-ready format**.
+This project presents an **interactive Power BI dashboard** designed to analyze **PhonePe digital payment transactions and user data across India**.
+
+The dashboard delivers insights into **transaction performance, user growth, service adoption, and regional trends**, built in a **corporate, portfolio-ready format** suitable for recruiters and stakeholders.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Project Objectives
 
-* Analyze **transaction amount and volume** across states and years
-* Identify **top and low performing regions**
-* Understand **user growth and adoption patterns**
-* Build a **corporate-style Power BI dashboard** for portfolio use
+- Analyze **transaction amount and volume** across states and years  
+- Identify **top-performing and low-performing regions**  
+- Understand **user growth and adoption patterns**  
+- Design a **professional Power BI dashboard** for business decision-making  
 
 ---
-## Key Highlights
+
+## ⭐ Key Highlights
+
 - **Total Transaction Value:** ₹3.47B  
 - **Total Transactions:** ~300K  
 - **Total Users:** ~101K  
 - **Overall Success Rate:** ~96%  
 - **Growth Peak:** March (₹30.46M MoM)  
-- **VIP Segment:** Age 26–35 with ₹18.1K average transaction size  
-- **Market Signal:** 0% YoY user growth indicates platform maturity
+- **VIP Segment:** Age group 26–35 with ₹18.1K average transaction value  
+- **Market Signal:** 0% YoY user growth indicates platform maturity  
 
 ---
+
 ## 🛠 Tools & Technologies
 
-* Power BI Desktop
-* DAX (Data Analysis Expressions)
-* Data Modeling
-* Data Visualization
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Data Modeling**
+- **Data Visualization & Dashboard Design**
 
 ---
 
-## 📊 Dashboard Screenshots & Explanation
+## 📊 Dashboard Pages & Explanation
 
-🔹 Control Centre (Home Dashboard)
+### 🔹 Control Centre (Home)
 
-This dashboard acts as the central navigation hub for the entire PhonePe analysis report.
-It provides quick access to all dashboards including Strategic Overview, Customer Intelligence, Service Performance, and Business Insights, ensuring smooth user navigation.
+Acts as the **central navigation hub** for the entire PhonePe dashboard.  
+Provides quick access to all major analysis pages ensuring smooth user experience.
 
-![Strategic Overview](screenshots/home.png)
-
-
-
-
+![Control Centre](screenshots/home.png)
 
 ---
 
+### 🔹 Strategic Overview
 
-🔹 Strategic Overview
+Offers a **high-level view of business performance** including:
+- Month-on-Month (MoM) growth  
+- Peak transaction month  
+- Year-on-Year (YoY) user growth  
+- Overall transaction success rate  
 
-This dashboard provides a high-level view of overall transaction performance across months and services.
-It highlights MoM growth, peak transaction month, YoY user growth, and target success rate, helping stakeholders track overall business health and trends.
+Helps stakeholders quickly assess **business health and trends**.
 
-
-
-
-![Strategic Overview](screenshots/Executive Overview.png)
-
-
-
+![Strategic Overview](screenshots/Executive%20Overview.png)
 
 ---
 
-🔹 Customer Intelligence
+### 🔹 Customer Intelligence
 
-This dashboard focuses on customer behavior and demographics.
-It analyzes average customer age, total unique users, transactions per user, age-group-wise transactions, and monthly user trends, enabling better understanding of user engagement patterns.
+Focuses on **customer behavior and demographics**, including:
+- Average customer age  
+- Total unique users  
+- Transactions per user  
+- Age-group-wise transaction distribution  
+- Monthly user trends  
 
+Supports deeper understanding of **user engagement patterns**.
 
-
-
-![Strategic Overview](screenshots/Customer Analytics.png)
-
----
-
-🔹 Service Performance
-
-This dashboard evaluates the performance of different PhonePe services.
-It shows revenue distribution by service type, UPI transaction channel flow, monthly transaction trends, loan success rate, and average transaction value, helping identify high-performing services.
-
-
-
-
-![Strategic Overview](screenshots/Operational Performance.png)
+![Customer Intelligence](screenshots/Customer%20Analytics.png)
 
 ---
 
-🔹 Business Insights
+### 🔹 Service Performance
 
-This dashboard delivers actionable insights for business decision-making.
-It highlights total bills, transfer volume, transaction success rate, and service-wise performance, supporting strategic planning and operational improvements.
+Evaluates **PhonePe service efficiency and adoption**, covering:
+- Revenue distribution by service type  
+- UPI transaction channel flow  
+- Monthly transaction trends  
+- Loan success rate  
+- Average transaction value  
 
+Helps identify **high-performing services and operational strengths**.
 
+![Service Performance](screenshots/Operational%20Performance.png)
 
+---
 
-![Strategic Overview](screenshots/Strategic Insights.png)
+### 🔹 Business Insights
+
+Delivers **actionable insights** to support strategic decisions:
+- Total bills & transfer volume  
+- Transaction success rate  
+- Service-wise contribution analysis  
+
+Enables **data-driven planning and optimization**.
+
+![Business Insights](screenshots/Strategic%20Insights.png)
+
+---
+
+## 📈 Key Business Insights Summary
+
+| Insight | Business Meaning | Dashboard Pages |
+|------|------------------|----------------|
+| Millennials drive high value | 56% higher average transaction size | Strategic Overview, Customer Intelligence |
+| Insurance shows strong growth | March peak at ₹30.46M | Service Performance |
+| 0% YoY user growth | Indicates a mature & saturated market | Strategic Overview |
+| Loan success at 100% | Strong operational reliability | Customer Intelligence |
 
 ---
 
 ## 👤 Author
 
-**Vivek Sase**
-🎓 Data Analyst | Power BI | SQL | Python
-
-
----
- ## Key Business Insights
-
-| Insight | Business Meaning | Pages |
-|-------|------------------|-------|
-| Q4 millennials drive high value | 56% higher avg transaction size | 2, 3 |
-| Insurance leads true growth | March ₹30.46M peak | 4 |
-| 0% YoY users | Mature, saturated market | 2, 4 |
-| Loan success at 100% | Strong operational reliability | 3 |
-
+**Samarth Harde**  
+🎓 Data Analyst | Power BI | SQL | Python  
 
 ---
+
+## 📌 Note
+
+This project is created for **learning, portfolio presentation, and analytical demonstration purposes** using publicly available PhonePe-style datasets.
