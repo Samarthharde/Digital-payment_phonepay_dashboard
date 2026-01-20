@@ -73,7 +73,7 @@ It analyzes average customer age, total unique users, transactions per user, age
 
 
 
-![Strategic Overview](screenshots/customer_intillegnce.png)
+![Strategic Overview](screenshots/Customer Analytics.png)
 
 ---
 
@@ -85,7 +85,7 @@ It shows revenue distribution by service type, UPI transaction channel flow, mon
 
 
 
-![Strategic Overview](screenshots/service_performance.png)
+![Strategic Overview](screenshots/Operational Performance.png)
 
 ---
 
@@ -97,7 +97,7 @@ It highlights total bills, transfer volume, transaction success rate, and servic
 
 
 
-![Strategic Overview](screenshots/business_insights.png)
+![Strategic Overview](screenshots/Strategic Insights.png)
 
 ---
 
